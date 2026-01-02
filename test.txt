@@ -1,2 +1,3 @@
 this is first line for testing purpose to learn git and git hub
 this is my second line for git leaaring findamentals in day 1 add commit -m staging are and working directory
+third line learin g git 
